@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1537866855 source:c:\users\batuh\onedrive\masaüstü\yapayzeka\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<algorithm>
+	<sstream>
+	<string>
+

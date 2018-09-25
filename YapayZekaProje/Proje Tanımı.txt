@@ -1,0 +1,4 @@
+Bu proje yapay zeka dersinde sahte yorum bulma başlıklı bir projedir. Projede bize test verileri verilmiştir. Bu veriler bir hotele ve restorana gelen
+yorumları içermektedir. Mevcut yorumlar programa öğretilerek yeni gelen bir yorumun sahte olup olmadığı algılaması yapılmaktadır.
+Gelen yorumların kaç tanesinin gerçek yorum, kaç tanesinin ise sahte yorum olduğunu bulmaktadır ve yüzdesel olarak doğruluk kontrolü 
+yapmaktadır.
